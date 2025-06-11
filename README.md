@@ -1,0 +1,2 @@
+# gettingStartedCopilot
+Copilot practices
